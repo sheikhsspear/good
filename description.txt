@@ -1,1 +1,1 @@
-This is a repo for a fieldservice app and will also be using this repo as my practice for devops
+This is a repo for a field service app and will also be using this repo as my practice for devops
